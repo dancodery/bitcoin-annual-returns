@@ -22,7 +22,7 @@ total days:  1247
 first day:  2010-08-18
 last day:  2017-06-14
 average return per year:  867.38575 %
-``
+```
 
 
 For a local copy: `git clone https://github.com/PlagScanian/bitcoin-annual-returns.git`
