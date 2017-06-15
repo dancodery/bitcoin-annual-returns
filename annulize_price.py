@@ -5,6 +5,10 @@ This simple Python script shows the annual bitcoin price performance.
 The average price is determined each year. 
 For the performance the average price of the current year is divided by the average price of the last year.
 The last row shows the average percentage change per year (performance).
+
+__author__ = "Daniel Gockel"
+__copyright__ = "Copyright 2017"
+__email__ = "daniel@gockel.co"
 """
 
 import urllib2
