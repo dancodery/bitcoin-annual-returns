@@ -7,7 +7,7 @@ The last row shows the average percentage change per year (performance).
 
 `python annulize_price.py` at 15 June 2017
 Output:
-
+```
 ** Bitcoin yearly performance **
 year .. price end of year .. avg for year .. performance
 2010    0.299999              0.167    0.0
@@ -22,3 +22,4 @@ total days:  1247
 first day:  2010-08-18
 last day:  2017-06-14
 average return per year:  867.38575 %
+```
