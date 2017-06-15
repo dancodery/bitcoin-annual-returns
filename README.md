@@ -1,5 +1,5 @@
 # Bitcoin annual returns
-This simple Python script shows the annual bitcoin price performance. 
+This simple Python script shows the annual bitcoin price performance (yearly percentage change). 
 
 The average price is determined each year. 
 For the performance the average price of the current year is divided by the average price of the last year.
@@ -22,4 +22,9 @@ total days:  1247
 first day:  2010-08-18
 last day:  2017-06-14
 average return per year:  867.38575 %
-```
+``
+
+
+For a local copy: `git clone https://github.com/PlagScanian/bitcoin-annual-returns.git`
+
+Daniel Gockel © daniel@gockel.co
