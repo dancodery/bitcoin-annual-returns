@@ -25,6 +25,6 @@ average return per year:  867.38575 %
 ```
 
 
-For a local copy: `git clone https://github.com/PlagScanian/bitcoin-annual-returns.git`
+For a local copy: `git clone https://github.com/dancodery/bitcoin-annual-returns.git`
 
 Daniel Gockel © daniel@gockel.co
